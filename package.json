@@ -1,0 +1,27 @@
+{
+  "name": "npm-test2-reza",
+  "version": "1.0.0",
+  "description": "its my seconde test npm package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezaAstaraki/npm-test2-reza.git"
+  },
+  "keywords": [
+    "npm",
+    "reza",
+    "test",
+    "2",
+    "with",
+    "github"
+  ],
+  "author": "rezaastaraki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RezaAstaraki/npm-test2-reza/issues"
+  },
+  "homepage": "https://github.com/RezaAstaraki/npm-test2-reza#readme"
+}
